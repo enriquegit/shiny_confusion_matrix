@@ -8,5 +8,17 @@ This is an interactive confusion matrix made with R shiny apps. Change the value
 - Precision
 - F1-score
 
+# Demo
 
+![](img/shiny_cf.gif)
+
+# Installation
+
+Install the `shinydashboard` package.
+
+```
+install.packages("shinydashboard")
+```
+
+Open the file in [RStudio](https://rstudio.com/products/rstudio/) and click the "Run App" button.
 
