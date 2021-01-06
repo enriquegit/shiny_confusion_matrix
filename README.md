@@ -20,5 +20,5 @@ Install the `shinydashboard` package.
 install.packages("shinydashboard")
 ```
 
-Open the file in [RStudio](https://rstudio.com/products/rstudio/) and click the "Run App" button.
+Open the file `shiny_confusion_matrix.R` in [RStudio](https://rstudio.com/products/rstudio/) and click the "Run App" button.
 
